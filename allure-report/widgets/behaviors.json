@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"19ce04371375d9f3445f407b169285b9","name":"Verify User is able to Login on the Website, Add 1 product in the cart and then Checkout","statistic":{"failed":0,"broken":2,"skipped":0,"passed":1,"unknown":0,"total":3}}]}
+{"total":1,"items":[{"uid":"f5db947c64d2cb4a13b7783b642a6ddd","name":"Verify User is able to Login on the Website, Add 1 user and then Revoke user","statistic":{"failed":0,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":5}}]}

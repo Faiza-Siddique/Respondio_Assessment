@@ -1,8 +1,8 @@
-# Selenium Cucumber BDD Framework - Technical Test
+# Selenium Cucumber BDD Framework - Technical Test - Respond.io
 
 **Author:** Faiza Siddique
 
-This repository contains an automation solution developed as part of a technical test for assessing Automation Engineer skills. The goal of this project is to create a scalable, maintainable, and sustainable automation framework using Selenium, Cucumber, and the Page Object Model (POM) design pattern. The framework will be used to automate tests for the website [https://www.saucedemo.com/](https://www.saucedemo.com/).
+This repository contains an automation solution developed as part of a technical test at Respond.io. The goal of this project is to create a scalable and maintainable automation framework using Selenium, Cucumber, and the Page Object Model (POM) design pattern. The framework will be used to automate tests for the website https://app.respond.io/
 
 ## Table of Contents
 - Requirements
@@ -47,4 +47,4 @@ The project follows the Page Object Model (POM) design pattern for better code o
 - **Documentation**: Javadoc comments and README file is also added in the code.
 
 ## Contact
-If you have any questions or need assistance, please feel free to contact the author, Faiza Siddique, at(mailto:faiza.siddique@systemsltd.com).
+If you have any questions or need assistance, please feel free to contact the author, Faiza Siddique, at(mailto:ifaiza.siddique@gmail.com).
