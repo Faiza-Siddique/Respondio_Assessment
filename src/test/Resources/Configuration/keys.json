@@ -1,0 +1,17 @@
+{
+  "Username": "//input[@id='input-7']",
+  "Password": "//input[@type='password']",
+  "SignIn_Button": "//button[@data-pw='btn-signin']",
+  "Close_popup": "//button[@class='_pendo-close-guide']",
+  "Setting_Icon": "//i[contains(@class, 'isax-setting-2')]",
+  "Users" : "//div[@data-pw='Workspace Settings']//a[@data-pw='users']",
+  "Add_User": "(//button[@data-pendo='btn-ws-add-user'])[2]",
+  "Email_Address": "//input[@placeholder='Email Address']",
+  "Add": "//span[text()='Add']",
+  "Revoke_Access": "(//span[text()='Revoke'])[1]",
+  "Revoke_Button":"//span[text()='Assign contacts to another user?']//following::span//span[text()='Revoke']",
+  "Profile": "//div[@class='dls-relative profile-navigation']//img",
+  "Sign_out": "//div[text()='Sign out']"
+
+
+}
